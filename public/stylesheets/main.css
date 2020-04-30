@@ -1,0 +1,15 @@
+#show-thumbnail {
+    padding: 0;
+}
+
+.thumbnail img{
+    width: 100%;
+}
+
+.delete {
+    display: inline;
+}
+
+.jumbotron {
+    text-align: center;
+}
